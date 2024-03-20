@@ -20,7 +20,7 @@ import androidx.webkit.WebViewFeature
 import com.roozbehzarei.webview.databinding.ActivityMainBinding
 
 // The URL of the website to be loaded
-private const val WEBSITE = "https://steel101.github.io/wordle.clone/"
+private const val WEBSITE = "https://steel101.github.io/wordguess"
 
 class MainActivity : AppCompatActivity() {
 
